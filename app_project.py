@@ -66,3 +66,6 @@ elif user_input == 3:
     password_redeem_email()
 else:
     print("Rossz billentyű lett leütve, program leáll ...")
+
+
+#jobb megoldás
